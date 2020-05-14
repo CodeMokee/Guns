@@ -24,6 +24,8 @@
         <module>guns-main</module>
     </modules>
 
+
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -45,7 +47,6 @@
     <dependencyManagement>
 
         <dependencies>
-
             <!--核心组件-->
             <dependency>
                 <groupId>cn.stylefeng.roses</groupId>
